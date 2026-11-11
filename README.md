@@ -11,7 +11,7 @@
 
 I build complete products, from the database to the interface, and add AI you can check: the code computes the figures and the model explains them, citing its sources. If the model states a number that is not in the data, it gets flagged or dropped.
 
-**Open to work** as a full stack or AI engineer. Native Spanish, English B2.
+Currently working as a **Full Stack & AI Engineer** at [Galdeca TSF](https://galdecatsf.com/). Native Spanish, English B2.
 
 ## AI you can check
 
@@ -80,6 +80,7 @@ Complete SaaS products: domain, API, database, interface and deployment.
 
 ## Background
 
+- **Full Stack & AI Engineer**, [Galdeca TSF](https://galdecatsf.com/) · Nov 2026 — Present
 - **Salesforce Full Stack Developer**, VASS · internship, 2026
 - **Frontend Developer**, CRC · internship, 2025
 - **Network Technician**, Erasmus placement · spring 2024
